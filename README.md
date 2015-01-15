@@ -1,4 +1,4 @@
-# generator-swagger-app [![Build Status](https://secure.travis-ci.org/mike-spainhower/generator-swagger-app.png?branch=master)](https://travis-ci.org/mike-spainhower/generator-swagger-app)
+# generator-swagger-app [![Build Status](https://travis-ci.org/LiveSafe/generator-swagger-app.svg)](https://travis-ci.org/LiveSafe/generator-swagger-app)
 
 > [Yeoman](http://yeoman.io) generator
 
